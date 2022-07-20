@@ -5,6 +5,7 @@ Example of the implementation of yolov3
 ## Screenshots :camera:
 <p float="left">
 <img src="https://github.com/WilliBobadilla/yolov3Example/blob/master/screenshots/1.png"  width="80%" height="60%" />
+<img src="https://github.com/WilliBobadilla/yolov3Example/blob/master/screenshots/2.png"  width="80%" height="60%" />
 </p>
 
 
